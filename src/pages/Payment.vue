@@ -35,9 +35,7 @@
 <script>
 import Location from '../components/Location.vue'
 export default {
-    components: {
-        Location
-    }
+    components: {Location}
 }
 </script>
 
